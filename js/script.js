@@ -40,7 +40,7 @@
 // });
 
 
-const api = "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";
+const api = "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";
 const inp = document.getElementById("inp");
 const btn = document.getElementById("btn");
 const images = document.getElementById("images"); // Assuming "images" is the ID of the container for images
